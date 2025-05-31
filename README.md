@@ -23,6 +23,4 @@ EnglishFun AI es una aplicación educativa en C# (Windows Forms) que utiliza int
 - Crear la base de datos y tablas necesarias
 - Personalizar la interfaz para niños
 
----
 
-Para dudas o mejoras, contacta al desarrollador.
